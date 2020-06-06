@@ -20,7 +20,7 @@ title                    : "locket0115"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "locket0115"
-description              : "An amazing website."
+description              : "Programing"
 url                      : "https://locket0115.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
